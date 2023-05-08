@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Krish, Aditya Manikonda, Soma, Sreshta Talluri"
+author: "Krish, Aditya, Soma, Sreshta"
 format: html
 editor: visual
 self-contained: true
